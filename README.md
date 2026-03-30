@@ -3,36 +3,35 @@
 </h1>
 
 <p align="center">
-  <strong>From Hanoi Bách Khoa</strong> • <a href="mailto:tungnghienhy@gmail.com">Connect with me</a>
+  <strong>From Hanoi Bách Khoa</strong>
 </p>
 
 ---
 
 ## 🎓 About me
 
-I am [**Trần Văn Tùng (TungTraL)**](https://github.com/TungSoYeu), a dedicated student from [**Hanoi University of Science and Technology (HUST)**](https://www.hust.edu.vn/), passionately pursuing Software Engineering with a focus on web and application development.
+I am [**Trần Văn Tùng (TungTraL)**](https://github.com/TungSoYeu), a dedicated student from [**Hanoi University of Science and Technology (HUST)**](https://www.hust.edu.vn/), passionately pursuing Software Engineering.
 
-- 🚀 Software Engineer-to-be with a passion for building awesome web and mobile apps.
-- 💻 Tech stacks I'm currently working with: JavaScript, Java, Node.js, HTML5, CSS3.
+- 🚀 Passionate about building awesome Web and Software applications.
 - 🎮 Interests include: Coding, Valorant, Teamfight Tactics (TFT).
-- 🎵 An avid listener of music, from various genres.
+- 🎵 An avid listener of music.
 
 ---
 
-## 🌐 Find me everywhere
+## 🌐 Connect with me
 
 <p align="left">
   <a href="https://www.facebook.com/tvtung194/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" width="40" height="40" style="background:none; border:none; margin: 0 5px;" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/vttrann_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="40" height="40" style="background:none; border:none; margin: 0 5px;" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://t.me/+84325451628" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="Telegram" width="40" height="40" style="background:none; border:none; margin: 0 5px;" />
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:tungnghienhy@gmail.com">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" width="40" height="40" style="background:none; border:none; margin: 0 5px;" />
+  <a href="mailto:tungnghienhy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -40,11 +39,13 @@ I am [**Trần Văn Tùng (TungTraL)**](https://github.com/TungSoYeu), a dedicat
 
 ## 💻 Tech stack
 
-- [![](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=313330)](https://www.javascript.com/)
-- [![](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-- [![](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-- [![](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-- [![](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/CSS3)
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 ---
 
@@ -54,11 +55,3 @@ I am [**Trần Văn Tùng (TungTraL)**](https://github.com/TungSoYeu), a dedicat
   <img src="https://github-readme-stats.vercel.app/api?username=TungSoYeu&show_icons=true&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Stats" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TungSoYeu&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Langs" width="400">
 </p>
-
----
-
-## 🛠 Projects
-
-Take a look at some of my featured projects. Here is one you've worked on:
-
-- [**Node.js Blog**](https://github.com/TungSoYeu/nodejs_blog): Description of your blog project. Check it out!
