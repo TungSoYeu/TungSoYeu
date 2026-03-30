@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=EE2F2A&vCenter=true&width=435&lines=I'm+Tung+Tran!;A+future+HUST+Engineer!;A+passionate+Coder+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+Valorant+%26+TFT+Enthusiast+%F0%9F%8E%AE;From+Hanoi,+Vietnam" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=EE2F2A&center=true&vCenter=true&width=435&lines=I'm+Tung+Tran!;A+future+HUST+Engineer!;A+passionate+Coder+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+Valorant+%26+TFT+Enthusiast+%F0%9F%8E%AE;From+Hanoi,+Vietnam" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -51,3 +51,7 @@ I am [**Trần Văn Tùng (TungTraL)**](https://github.com/TungSoYeu), a dedicat
 
 ## 📊 GitHub stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TungSoYeu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TungSoYeu&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" width="400">
+</p>
