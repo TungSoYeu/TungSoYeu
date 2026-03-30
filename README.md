@@ -51,7 +51,3 @@ I am [**Trần Văn Tùng (TungTraL)**](https://github.com/TungSoYeu), a dedicat
 
 ## 📊 GitHub stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TungSoYeu&show_icons=true&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TungSoYeu&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Langs" width="400">
-</p>
