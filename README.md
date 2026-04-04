@@ -49,9 +49,8 @@ I am [**Trần Văn Tùng (TungTran)**](https://github.com/TungSoYeu), a dedicat
 
 ---
 
-## 📊 GitHub stats
+## 🔥 WORLD STATISTICS | CHỈ SỐ THẾ GIỚI
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TungSoYeu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TungSoYeu&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" width="400">
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
