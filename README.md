@@ -10,7 +10,7 @@
 
 ## 🎓 About me
 
-I am [**Trần Văn Tùng (TungTraL)**](https://github.com/TungSoYeu), a dedicated student from [**Hanoi University of Science and Technology (HUST)**](https://www.hust.edu.vn/), passionately pursuing Software Engineering.
+I am [**Trần Văn Tùng (TungTran)**](https://github.com/TungSoYeu), a dedicated student from [**Hanoi University of Science and Technology (HUST)**](https://www.hust.edu.vn/), passionately pursuing Software Engineering.
 
 - 🚀 Passionate about building awesome Web and Software applications.
 - 🎮 Interests include: Coding, Valorant, Teamfight Tactics (TFT).
